@@ -38,8 +38,11 @@ const Crack: documental = {titulo: "Crack: Cocaina, Corrupción y conspiración"
   genero: "Sociocultural",
   clasificacion: "C"};
 Documentaries.addItem(Crack);
-
+console.log("Numero de series registradas");
 console.log(Reeks.getNumberOfItems());
+console.log("Peliculas registradas");
 console.log(Films.getItems());
+console.log("Busqueda de documentales por clasificacion");
 console.log(Documentaries.searchBy(search.Clasificacion, "C"));
+console.log("Busqueda de peliculas por titulo");
 console.log(Films.searchBy(search.Titulo, "Monster Hunter"));
