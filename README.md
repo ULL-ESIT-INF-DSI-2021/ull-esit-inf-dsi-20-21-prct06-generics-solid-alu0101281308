@@ -15,4 +15,4 @@ Como objetivos de esta pr√°ctica tenemos que completar 3 ejercicios con el prop√
 
 # Documentacion
 
-[Informe GitHub Pages]()
+[Informe GitHub Pages](https://ull-esit-inf-dsi-2021.github.io/ull-esit-inf-dsi-20-21-prct06-generics-solid-alu0101281308/)
